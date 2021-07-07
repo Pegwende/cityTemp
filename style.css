@@ -1,0 +1,16 @@
+.container{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+img{
+  height: 300px;
+  width: 400px;
+  text-align: center;
+}
+
+.container3{
+  height:10px;
+  width: 10px;
+}
